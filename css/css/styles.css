@@ -1,0 +1,55 @@
+body {
+    background-color: lightgray;
+    color: black;
+    margin: 20px;
+    font-family: Arial, sans-serif;
+}
+
+nav a {
+    margin-right: 15px;
+    text-decoration: none;
+    color: darkmagenta;
+    font-weight: bold;
+}
+
+h1 {
+    color: darkgreen;
+    font-size: 36px;
+}
+
+h2 {
+    color: darkgreen;
+}
+
+p {
+    padding: 10px;
+    margin: 10px 0;
+}
+
+ul {
+    margin-left: 20px;
+}
+
+img {
+    width: 300px;
+    height: auto;
+    margin-top: 10px;
+}
+
+table {
+    border-collapse: collapse;
+    margin-top: 15px;
+}
+
+table, th, td {
+    border: 1px solid black;
+}
+
+th, td {
+    padding: 8px;
+    text-align: left;
+}
+
+th {
+    background-color: lightgreen;
+}
