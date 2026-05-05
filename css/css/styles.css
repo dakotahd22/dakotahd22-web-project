@@ -53,3 +53,19 @@ th, td {
 th {
     background-color: lightgreen;
 }
+@media (max-width: 600px) {
+    body {
+        background-color: lightblue;
+    }
+    h1 {
+        font-size: 28px;
+    }
+    nav a {
+        display: block;
+        margin-bottom: 10px;
+    }
+}
+
+nav a:hover {
+    color: red;
+}
